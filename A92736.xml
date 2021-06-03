@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scots vindication of some former transactions. And declaration of their unanimous consent, and resolutions to assist His Majesty, Charls the II. VVith the utmost of their lives and estates, for the advancement of his affaires, towards the recovery of his right in England, and bringing of the murtherers of his father to justice. And a letter from the chancellour of Scotland his secretary, to a worthy friend of his in England. Imprimatur.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92736</idno><idno type="EEBO-CITATION">99864059</idno>
+  <idno type="VID">165307</idno>
+  <idno type="EEBO-PROQUEST">2240904047</idno>
+  
+            <idno type="STC">Wing S2031</idno>
+            <idno type="STC">Thomason E568_8</idno>
+            <idno type="STC">ESTC R204586</idno>
+            <idno type="PROQUEST">99864059</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864059e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92736)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165307)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E568[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scots vindication of some former transactions. And declaration of their unanimous consent, and resolutions to assist His Majesty, Charls the II. VVith the utmost of their lives and estates, for the advancement of his affaires, towards the recovery of his right in England, and bringing of the murtherers of his father to justice. And a letter from the chancellour of Scotland his secretary, to a worthy friend of his in England. Imprimatur.</title>
+               </titleStmt>
+               <extent>[4], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F.R. for L.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165307:1"/>
+            <p>THE <hi>SCOTS</hi> VINDICATION OF <hi>SOME FORMER TRANSACTIONS.</hi> AND <hi>DECLARATION</hi> of their Unanimous Consent, and RESOLUTIONS to Assist His Majesty, <hi>CHARLS</hi> the II.</p>
+            <p>With the utmost of their Lives and Estates, For the Advancement of His Affaires, to<g ref="char:EOLhyphen"/>wards the Recovery of His Right in ENGLAND, and bringing of the Murtherers of His Father to <hi>JƲSTICE.</hi>
+            </p>
+            <p>
+               <hi>AND</hi> A <hi>Letter</hi> from the Chancellour of <hi>Scotland</hi> his Secretary, to a worthy Friend of his in <hi>ENGLAND.</hi>
+            </p>
+            <p>Imprimatur.</p>
+            <p>
+               <add>Aug: 7<seg rend="sup">th</seg>
+               </add>
+               <hi>LONDON,</hi> Printed by <hi>F. R.</hi> for <hi>L. C.</hi> 1649.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:165307:2"/>
+            <pb facs="tcp:165307:2"/>
+            <head>The LETTER.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>MY former acquaintance with you, and experience of your un<g ref="char:EOLhyphen"/>staggered Loyalty to His late sacred Majesty, makes me con<g ref="char:EOLhyphen"/>fident of the continuance of your affections to His Royall Heir, <hi>Englands</hi> Soveraigne, Lord and King by Right of succession, and cheerfully acknowledged, such here by this His Kingdome of <hi>Scotland</hi> by open Proclamation.</p>
+            <p>This confidence of your integrity encouraged me to communicate unto you this enclosed <hi>Vindication,</hi> and <hi>Declaration</hi> of our Kirk, and Grand Committee of Estates, with the cheerfull approbation of the whole Kingdom; for with such countenance it is generally entertained through<g ref="char:EOLhyphen"/>out all <hi>Scotland,</hi> unlesse by some inconsiderable Persons, who can on<g ref="char:EOLhyphen"/>ly shew their teeth, and indeed dare scarce doe that, for a strict course is taken with all Murmurers, and discontent-broaching-disaffected Persons.</p>
+            <p>Sir, I dare boldly say, it would almost ravish your Heart, if you did but behold the present face of your Friends here; every one almost, ex<g ref="char:EOLhyphen"/>pressing their deep sense of His Majesties sufferings in the inestima<g ref="char:EOLhyphen"/>ble losse of His Royall Father, and diverse other great Afflictions: Their detestation of the <hi>Principles</hi> and <hi>proceedings</hi> of the <hi>Sectaries</hi> in <hi>England:</hi> Their reall affection to Monarchy: Their hearty desires for a Blessing of God upon His Majesties Person, and Government, and their oynt and unanimous consent to assist Him, both in the Revenge of that <hi>Horrid,</hi> and <hi>impious Murder</hi> of our late Gracious Soveraign, His Father, and in the Recovery of His undoubted Right in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>I desire you, both This, and That, may be imparted to as many as (without prejudice to your selfe) it can: for I am confident it will give great satisfaction comming from your intelligence, your acquaintance with me in this Relation with my Lord, being so well known by most: And I'le assure you I had it from his own hand.</p>
+            <p>The Lord <hi>Ogleby,</hi> and Generall <hi>Midleton,</hi> are both come in, as
+<pb facs="tcp:165307:3"/>was desired, being now fully satisfied of His Majesties pleasure, having had time, given them by the Parl. here to enquire after it; &amp; have there<g ref="char:EOLhyphen"/>upon declared, both the integrity of their intentions towards Monarchi<g ref="char:EOLhyphen"/>call Government, and the continuance thereof in His Majesties Person and Posterity; whereunto they acknowledge themselves equally enga<g ref="char:EOLhyphen"/>ged, by the Lawes of God, and of this Kingdom; and also their utter de<g ref="char:EOLhyphen"/>testation of those abominable and unparallel'd practices of some against the Person and Life of His Majesties Father, and their subver<g ref="char:EOLhyphen"/>ting the Ancient and Fundamentall Lawes of His three <hi>KING<g ref="char:EOLhyphen"/>DOMES.</hi>
+            </p>
+            <p>Sir <hi>William Flemming</hi> is Landed, and hath delivered the Ex<g ref="char:EOLhyphen"/>presse from his Majesty unto the Generall Assembly of the Kirk, and the Estates of Parliament: who acknowledged themselves amply satisfied thereby, and have thereupon declared their Resolutions to contribute the utmost assistance of this Kingdome for the advancing His Majesties Affaires, and afford Him their united aide in recovering His Right in <hi>ENGLAND,</hi> and bringing the Murtherers of his Father to Justice.</p>
+            <p>Our Army is now almost perfected, the Generall is not as yet nomi<g ref="char:EOLhyphen"/>nated; it being [upon his Majesties desire for his security and a pledge of their Fidelity] Reserved for him whom Our King shall send with his Commission.</p>
+            <p>The additionall Forces landed here, <hi>June</hi> the <hi>38.</hi> are upon their March toward <hi>Carlile,</hi> reported <hi>10000.</hi> and commanded by <hi>Mon<g ref="char:EOLhyphen"/>trosse,</hi> unto whom many Gentlemen of <hi>England,</hi> of the late Kings Party resort dayly, are cheerfully entertained, and provided for accor<g ref="char:EOLhyphen"/>ing to their severall Qualities. And so I desire you to satisfie all your Friends.</p>
+            <p>I believe you will receive my next Dated from a place of lesse di<g ref="char:EOLhyphen"/>stance from you than</p>
+            <closer>
+               <dateline>
+                  <hi>Edenburgh,</hi> where <date>this present 30. of <hi>June</hi>
+                  </date> re<g ref="char:EOLhyphen"/>maineth</dateline>
+               <signed>Your much engaged Friend.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:165307:3"/>
+            <head>The <hi>VINDICATION</hi> and <hi>DECLARATION</hi> of the <hi>Scots</hi> Nation, &amp;c.</head>
+            <p>AN Aspersion being cast upon our Actions, and a Sandall raised against our Proceedings. We conclude our selves engaged to wipe off the one, and beat downe the other by this short <hi>Vindication.</hi>
+            </p>
+            <p>It is not unknown to the world, that at <hi>First</hi> we were Invited to assist the Kingdome of <hi>England</hi> upon a <hi>Solemne Agreement,</hi> as well to make the late <hi>King Glorious,</hi> as to preserve to Lawfull Rights, and Liberties of the Subjects. The onely means to effect this, was propounded the forcible Re<g ref="char:EOLhyphen"/>scuing the King from His <hi>Evill,</hi> and bringing Him back to His <hi>Great Coun<g ref="char:EOLhyphen"/>cell,</hi> whom we were informed He had [wilfully, and for no cause given by them] deserted: <hi>[Though now we are fully satisfied of the contrary.]</hi>
+            </p>
+            <p>This specious pretence involved us in that Engagement: in order to the effecting whereof, our Army in 1644. Marched into <hi>England:</hi> The successe which their Designe found thereby, we need not mention; it being acknow<g ref="char:EOLhyphen"/>ledged at large by their own Papers.</p>
+            <p>Upon the Account also, <hi>after the Kings comming into our Army,</hi> we treated with them, and <hi>upon their large protestations of acting nothing contrary to the first agreement,</hi> [of the faithfull performance whereof we alone were not frustrated] we left his Majesty to be attended on by the <hi>Commissioners,</hi> of both Houses of the Then Parliament of <hi>England,</hi> expecting thenceforth a speedy performance of theirs and our Agreement, but how our expectation was therein deceived we leave it to their owne <hi>late proceedings</hi> to determine and declare.</p>
+            <p>After this, being informed how the Army of <hi>Sectaries</hi> behaved themselves towards the <hi>King,</hi> we held our selves obliged by our said <hi>Solemn Engagement</hi> to endeavour the Redresse of his Majesties sad condition, and to that end by consent of Parliament we raised an Army in 1648. and gave them Order to March into <hi>England:</hi> which was accordingly performed.</p>
+            <p>Upon their March we were informed of a <hi>Treaty</hi> to be between his then Majesty and his two Houses, and were also possessed with this suggestion, that under the countenance of that our engagement, <hi>the Malignant party had strengthned themselves to hinder the happy effects of the said Treaty:</hi> of which we being unwilling to be accounted the abstructers, we sent Orders to our Gene<g ref="char:EOLhyphen"/>rall
+<pb n="2" facs="tcp:165307:4"/>to stay his further March, and forbeare any engagement against the <hi>Eng<g ref="char:EOLhyphen"/>lish.</hi> till we were truly satisfied what effect the said <hi>Treaty</hi> would produce.</p>
+            <p>Our Generall accordingly made an Hault, not doubting but that the <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> had done the same. But their Lieutenant Generall <hi>Cromwell</hi> taking ad<g ref="char:EOLhyphen"/>vantage of his security, unexpectedly fell into our Generalls quarters [<hi>who suspected no such treacherous fruits of a pretended Treaty,</hi> and had no order to engaste against them] and before our Generall was or could be Resolved what to doe, prosecuted his Designe with so hot and eager a pursuite, that by the advantage he had got by that his treacherous first onset, he so dispersed our whole Army, that it was no Labour for him totally to destroy the same, or have them all at his Mercy <hi>[which in the conclusion proved but cru<g ref="char:EOLhyphen"/>elty, witnesse our Generall himselfe whom they murdered in London after they had given him quarter.]</hi>
+            </p>
+            <p>By this defeat he gained a free passage with his Army without opposition, to March against this Kingdome. To prevent this, those of us who had pro<g ref="char:EOLhyphen"/>tested against that Engagement, and to their utmost power opposed it in Armes <hi>[which they never laid downe, untill the Garrisons of BERWICK</hi> and Carlisle <hi>were restored to the Kingdome of</hi> England] These of us [we say] <hi>by a letter from the House of Commons to the Generall Assembly of this Kirk of the third of</hi> August 1648. <hi>intimating with what hopefull successe the Treaty was like to go on</hi>) were invited to a Treaty with the said Lieu. Generall <hi>Cromwell</hi> authorized thereunto by both Houses of Parliament: And this was accepted on both Parts.</p>
+            <p>
+               <hi>At the meeting upon the</hi> 5. <hi>of</hi> October <hi>following Lieu. Generall</hi> Cromwell <hi>in the Name of the Parliament of</hi> England, <hi>did represent to the Committee of E<g ref="char:EOLhyphen"/>states of this Kingdome, the wrongs and injuries committed against the Kingdome of</hi> England <hi>in that Engagement, and thereupon did demand by way of satisfaction, that they would give assurance in the name of the Kingdome of</hi> Scotland, <hi>not to admit, or suffer any who have been Active in, or consenting to that Engagement, to be employed in any Publique place, or Trust whatsoever; which</hi> [the exigen<g ref="char:EOLhyphen"/>cies of our affaires, as then necessitating us thereunto] <hi>was not onely granted, and afterwards confirmed in Parliament,</hi> but also publickly disclaimed, be<g ref="char:EOLhyphen"/>cause we did expect a happy period of the above-mentioned Treaty be<g ref="char:EOLhyphen"/>tween His Majesty, and His two Houses: but what effect that did produce is apparent to the whole world in Generall, and to this Kingdome particu<g ref="char:EOLhyphen"/>larly, who are concerned therein more especially; for thereby they con<g ref="char:EOLhyphen"/>clude, themselves free from whatsoever Relation, or mutuall obligation to the Kingdome of <hi>England,</hi> and bound equally by the Law of God, Nations, and Common Right to declare as followeth.</p>
+            <div type="part">
+               <pb n="3" facs="tcp:165307:4"/>
+               <head>The <hi>DECLARATION</hi> of, &amp;c.</head>
+               <p>SInce the hideous, and unparrallel'd proceedings of the Sectaries of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> especially of the Army [in reference to Religion to the Law, to the protesting against, and disanulling all the proceedings of the Treaty, to the Freedome of both Houses, (one being declared uselesse, and many Members of the other kept away by force, and the rest under the power of the Sword) to the taking away of the <hi>Kings Life,</hi> and the changing the very <hi>Fundamentall Government of that Kingdome</hi>] since their proceedings [we say] have mani<g ref="char:EOLhyphen"/>fested themselves contrary, and Diametrically opposite to all bonds of Re<g ref="char:EOLhyphen"/>ligion, or but Morall Honesty, Loyalty to the King, mutuall amity and Friendship betwixt the two Kingdomes, the Solemne League and Cove<g ref="char:EOLhyphen"/>nant, yea, and their own <hi>Protestations, Declarations, Professions, and Remon<g ref="char:EOLhyphen"/>strances.</hi>
+               </p>
+               <p>And since by such proceedings it is apparent, that there hath been in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> a back-sliding and departure from those Grounds and Principles wherein the two Kingdomes were engaged: we held our selves bound equally by the Law of God and Nations to protest against them, and to addresse our selves according to the Law of this Kingdome, to the Heire apparent of this Crown and Scepter, whom we have not onely acknowledged for our King, and with all readinesse, unanimity, alacrity, and solemnity proclamed His Majesty by the name of <hi>CHARLES</hi> the SECOND, of <hi>Great Brittaine, France and Ireland, &amp;c.</hi> But also, [having now by his last <hi>Expresse</hi> received such full satisfaction as both the Generall Assembly of the Kirk, and Grand Committee of Estates did desire, or could be expected, doe DECLARE to the whole world, that we will receive His Majesty [when he shall think fit to Honour us with, and encourage us by His Royall presence] with all cheer<g ref="char:EOLhyphen"/>fullneffe, and most willingly render unto Him that faithfull subjection, and dutifull obedience which can be expected from Loyall Subjects to so <hi>Gracious a King,</hi> who by granting so much, hath so fare endeared <hi>This Nation,</hi> That we further DECLARE,</p>
+               <p>That we wil contribute our utmost endeavours according to the Duty of Faithfull and Loyall Subjects, to settle his Majesty in the peaceable Possession of the Government of his Kingdome of <hi>England,</hi> and other his Majesties Do<g ref="char:EOLhyphen"/>minions, according to his Majesties undoubted right of Succession, and with all their Lives, Estates, Power, and Strength, assist his Majesty in bringing to Justice the Actors and Abettors in that HORRID and UNPAR<g ref="char:EOLhyphen"/>RALED MURDER of his Majesties <hi>Royall Father,</hi> by which we doubt not but fully both to satisfie the whole world how much we did and still do
+<pb n="4" facs="tcp:165307:5"/>detest and abominate the very designe thereof, and also give a sufficient testi<g ref="char:EOLhyphen"/>mony of the integrity of intentions towards MONARCHICALL Govern<g ref="char:EOLhyphen"/>ment and the continuance thereof in his Majesties Person and Posterity, and of our utter detestation of the unparaleld practises of those <hi>Sectaries</hi> at <hi>West<g ref="char:EOLhyphen"/>minster, Derby-House,</hi> and in the <hi>Army,</hi> who Designe the Ruine of his Majesty and the Subversion of the ancient and Fundamentall Lawes and Government of all his Three Kingdomes, whom therefore we Resolve to our utmost hazard of our Lives, and Estates, to oppose: And to that end doe further DECLARE;</p>
+               <p>That we wil not admit of any <hi>Treaty</hi> with any of his Majesties Enemies (without his consent nor) till all the Late proceedings in <hi>England</hi> since the ending of the <hi>Treaty,</hi> between his late barbarously Murdered Majesty and his then Two Houses of Parliament, be disclaimed and disavowed, and both Houses there be permitted to sit in Freedome and safety, that so addresses may without feare and danger of the Subjects lives, be made unto them concerning all matters of just complaint.</p>
+               <p>And from these Resolutions and Declarations in the last place, as we DE<g ref="char:EOLhyphen"/>CLARE, that as no alteration or revolution of affairs can absolve us, so we trust in God that no successe, whether good or bad, shall be able to divert us from that course and means by which we have joyntly and unanimously con<g ref="char:EOLhyphen"/>sented to assist his Majesty according to this our present <hi>Declaration,</hi> and will persue with all alacrity till we have setled his Majesty according to his owne Hearts desire, attained the wished ends of the long continued Troubles of his Three Kingdomes, and put a period to those unnaturall Warres and divisions which have so long wasted all his Dominions; That so at Length (if God be so pleased) we may live a comfortable and quiet life under the shadow of so hopefull and Gracious a Kings prosperous and happy Government. Which God of his infinite Mercy grant in his good time That so the Throne of <hi>Charles</hi> the Second may be established in righteousness, peace and Hap<g ref="char:EOLhyphen"/>pinesse.</p>
+            </div>
+            <closer>Vivat, Vincat, Floreat CAROLƲS Secundus.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
